@@ -1,4 +1,4 @@
-package com.honosayaka.srom.core;
+package com.honosayaka.sorm.core;
 
 import java.util.List;
 

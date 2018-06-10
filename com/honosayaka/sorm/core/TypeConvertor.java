@@ -1,4 +1,4 @@
-package com.honosayaka.srom.core;
+package com.honosayaka.sorm.core;
 
 /**
  * 将Java类型和数据库数据类型互相转换
